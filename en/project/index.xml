@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Projects | My Site</title>
+    <link>https://vdskripnik.github.io/en/project/</link>
+      <atom:link href="https://vdskripnik.github.io/en/project/index.xml" rel="self" type="application/rss+xml" />
+    <description>Projects</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Thu, 29 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vdskripnik.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Projects</title>
+      <link>https://vdskripnik.github.io/en/project/</link>
+    </image>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://vdskripnik.github.io/en/project/hugo/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;-academic-website-with-hugo-academic-a-researchers-digital-portfolio&#34;&gt;🌐 Academic Website with Hugo Academic: A Researcher’s Digital Portfolio&lt;/h1&gt;
+&lt;p&gt;In the age of digital communication, every researcher, graduate student, or science-driven student faces a common question: &lt;strong&gt;where and how to showcase achievements, publications, projects, and interests?&lt;/strong&gt; One of the most elegant and modern solutions is to create a personal academic website — a digital business card that works for you 24/7. One of the best tools for this is &lt;strong&gt;Hugo Academic (now known as Wowchemy)&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-hugo-academic&#34;&gt;🧭 What is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a theme for the static site generator &lt;strong&gt;Hugo&lt;/strong&gt;, originally created for the academic and research community. It allows you to &lt;strong&gt;build a personal site for a scientist, researcher, or educator&lt;/strong&gt; without needing advanced web development skills.&lt;/p&gt;
+&lt;p&gt;The platform is tailored for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publications and bibliography,&lt;/li&gt;
+&lt;li&gt;projects and research work,&lt;/li&gt;
+&lt;li&gt;resume and biography,&lt;/li&gt;
+&lt;li&gt;talks and presentations,&lt;/li&gt;
+&lt;li&gt;blogs and educational resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-website-structure&#34;&gt;🧱 Website Structure&lt;/h2&gt;
+&lt;p&gt;A website built with Hugo Academic resembles a professional portfolio. It typically includes the following sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;About&lt;/strong&gt; — a short biography, photo, and contact information&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt; — formatted lists of scientific works with support for DOI, BibTeX, PDF links, and journal references&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt; — descriptions of research directions and activities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talks&lt;/strong&gt; — a list of presentations, seminars, and conferences&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt; — courses, lecture materials, and syllabi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt; — scientific notes, reflections, and literature reviews&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CV / Resume&lt;/strong&gt; — a visually structured resume with optional PDF download&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-choose-hugo-academic&#34;&gt;🎨 Why Choose Hugo Academic?&lt;/h2&gt;
+&lt;h3 id=&#34;-scientific-standards-support&#34;&gt;✅ Scientific Standards Support&lt;/h3&gt;
+&lt;p&gt;You can add publications via BibTeX, automatically pull metadata from Google Scholar or Crossref, and display your bibliography with filtering by year or category.&lt;/p&gt;
+&lt;h3 id=&#34;-automation&#34;&gt;✅ Automation&lt;/h3&gt;
+&lt;p&gt;You can update your site via Git or sync it with online databases like ORCID, Zotero, arXiv, and PubMed — no need to touch HTML manually.&lt;/p&gt;
+&lt;h3 id=&#34;-speed-and-reliability&#34;&gt;✅ Speed and Reliability&lt;/h3&gt;
+&lt;p&gt;As a static website, it loads instantly, can be hosted on GitHub Pages, Netlify, or other platforms, and doesn’t require a server or database.&lt;/p&gt;
+&lt;h3 id=&#34;-responsive-design&#34;&gt;✅ Responsive Design&lt;/h3&gt;
+&lt;p&gt;The site looks great on both desktop and mobile devices. Light and dark themes are supported, along with many layout customization options.&lt;/p&gt;
+&lt;h3 id=&#34;-open-source-and-active-community&#34;&gt;✅ Open Source and Active Community&lt;/h3&gt;
+&lt;p&gt;It’s an open-source project under active development with plenty of community support, templates, and documentation available.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-who-should-use-this&#34;&gt;🧑‍🔬 Who Should Use This?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Young researchers and graduate students&lt;/strong&gt; — to showcase their academic activity and gain visibility&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educators&lt;/strong&gt; — to organize courses, lecture notes, and learning resources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grant applicants&lt;/strong&gt; — to illustrate their research trajectory and contributions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Science communicators&lt;/strong&gt; — to maintain a blog or public lecture archive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-does-it-work&#34;&gt;🚀 How Does It Work?&lt;/h2&gt;
+&lt;p&gt;The site is built from plain text files (Markdown and YAML) organized in folders. You write your content, and the theme turns it into a stylish web page. No need to write HTML, CSS, or JavaScript manually.&lt;/p&gt;
+&lt;p&gt;Publishing is done via Git — you edit locally, push to GitHub, and your site updates automatically. Especially handy for those already using Git in their academic workflow.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-example-use-cases&#34;&gt;🌍 Example Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal websites for university faculty&lt;/li&gt;
+&lt;li&gt;Online portfolios for early-career researchers&lt;/li&gt;
+&lt;li&gt;Showcase pages for research labs and teams&lt;/li&gt;
+&lt;li&gt;Course and MOOC landing pages&lt;/li&gt;
+&lt;li&gt;Blogs on topics like math, AI, biology, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;em&gt;Your academic website is not just a page with a photo — it’s your digital identity in the scientific world. Hugo Academic gives you all the tools to present yourself clearly, professionally, and beautifully.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you’re planning to start a research career, build international collaborations, or apply for grants — creating a site like this is absolutely worth it.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

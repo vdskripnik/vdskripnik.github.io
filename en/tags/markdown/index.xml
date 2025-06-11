@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Markdown | My Site</title>
+    <link>https://vdskripnik.github.io/en/tags/markdown/</link>
+      <atom:link href="https://vdskripnik.github.io/en/tags/markdown/index.xml" rel="self" type="application/rss+xml" />
+    <description>Markdown</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vdskripnik.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Markdown</title>
+      <link>https://vdskripnik.github.io/en/tags/markdown/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/03/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-visualizing-business-processes-and-teamwork&#34;&gt;🛠 Visualizing Business Processes and Teamwork&lt;/h2&gt;
+&lt;p&gt;This week we dove into the world of business processes and diagrams. At first, it felt unfamiliar — blocks, arrows, subprocesses&amp;hellip; But gradually, I realized what a powerful tool it is. We learned how to create BPMN diagrams and describe real business scenarios.&lt;/p&gt;
+&lt;p&gt;Our team was given a logistics case for an online store. We modeled the delivery process from order placement to package receipt. We analyzed bottlenecks — including delays during order picking. After introducing automation in two points and recalculating the timing, the process became one and a half times faster! Micro-optimization — but what a satisfying result.&lt;/p&gt;
+&lt;p&gt;👥 It was our first experience working in a small group — discussing solutions, drawing the diagram together, debating who’s responsible for what. A great introduction to collaborative work.&lt;/p&gt;
+&lt;p&gt;🎯 &lt;em&gt;The most valuable insight: I’ve learned how to “see” a process, even when it’s not visible on a screen.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/04/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-visualizing-business-processes-and-teamwork&#34;&gt;🛠 Visualizing Business Processes and Teamwork&lt;/h2&gt;
+&lt;p&gt;This week we dove into the world of business processes and diagrams. At first, it felt unfamiliar — blocks, arrows, subprocesses&amp;hellip; But gradually, I realized what a powerful tool it is. We learned how to create BPMN diagrams and describe real business scenarios.&lt;/p&gt;
+&lt;p&gt;Our team was given a logistics case for an online store. We modeled the delivery process from order placement to package receipt. We analyzed bottlenecks — including delays during order picking. After introducing automation in two points and recalculating the timing, the process became one and a half times faster! Micro-optimization — but what a satisfying result.&lt;/p&gt;
+&lt;p&gt;👥 It was our first experience working in a small group — discussing solutions, drawing the diagram together, debating who’s responsible for what. A great introduction to collaborative work.&lt;/p&gt;
+&lt;p&gt;🎯 &lt;em&gt;The most valuable insight: I’ve learned how to “see” a process, even when it’s not visible on a screen.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Academic Website with Hugo Academic</title>
+      <link>https://vdskripnik.github.io/en/project/hugo/</link>
+      <pubDate>Thu, 29 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/project/hugo/</guid>
+      <description>&lt;h1 id=&#34;-academic-website-with-hugo-academic-a-researchers-digital-portfolio&#34;&gt;🌐 Academic Website with Hugo Academic: A Researcher’s Digital Portfolio&lt;/h1&gt;
+&lt;p&gt;In the age of digital communication, every researcher, graduate student, or science-driven student faces a common question: &lt;strong&gt;where and how to showcase achievements, publications, projects, and interests?&lt;/strong&gt; One of the most elegant and modern solutions is to create a personal academic website — a digital business card that works for you 24/7. One of the best tools for this is &lt;strong&gt;Hugo Academic (now known as Wowchemy)&lt;/strong&gt;.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-what-is-hugo-academic&#34;&gt;🧭 What is Hugo Academic?&lt;/h2&gt;
+&lt;p&gt;Hugo Academic is a theme for the static site generator &lt;strong&gt;Hugo&lt;/strong&gt;, originally created for the academic and research community. It allows you to &lt;strong&gt;build a personal site for a scientist, researcher, or educator&lt;/strong&gt; without needing advanced web development skills.&lt;/p&gt;
+&lt;p&gt;The platform is tailored for:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;publications and bibliography,&lt;/li&gt;
+&lt;li&gt;projects and research work,&lt;/li&gt;
+&lt;li&gt;resume and biography,&lt;/li&gt;
+&lt;li&gt;talks and presentations,&lt;/li&gt;
+&lt;li&gt;blogs and educational resources.&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-website-structure&#34;&gt;🧱 Website Structure&lt;/h2&gt;
+&lt;p&gt;A website built with Hugo Academic resembles a professional portfolio. It typically includes the following sections:&lt;/p&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;About&lt;/strong&gt; — a short biography, photo, and contact information&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Publications&lt;/strong&gt; — formatted lists of scientific works with support for DOI, BibTeX, PDF links, and journal references&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Projects&lt;/strong&gt; — descriptions of research directions and activities&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Talks&lt;/strong&gt; — a list of presentations, seminars, and conferences&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Teaching&lt;/strong&gt; — courses, lecture materials, and syllabi&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Blog&lt;/strong&gt; — scientific notes, reflections, and literature reviews&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;CV / Resume&lt;/strong&gt; — a visually structured resume with optional PDF download&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-why-choose-hugo-academic&#34;&gt;🎨 Why Choose Hugo Academic?&lt;/h2&gt;
+&lt;h3 id=&#34;-scientific-standards-support&#34;&gt;✅ Scientific Standards Support&lt;/h3&gt;
+&lt;p&gt;You can add publications via BibTeX, automatically pull metadata from Google Scholar or Crossref, and display your bibliography with filtering by year or category.&lt;/p&gt;
+&lt;h3 id=&#34;-automation&#34;&gt;✅ Automation&lt;/h3&gt;
+&lt;p&gt;You can update your site via Git or sync it with online databases like ORCID, Zotero, arXiv, and PubMed — no need to touch HTML manually.&lt;/p&gt;
+&lt;h3 id=&#34;-speed-and-reliability&#34;&gt;✅ Speed and Reliability&lt;/h3&gt;
+&lt;p&gt;As a static website, it loads instantly, can be hosted on GitHub Pages, Netlify, or other platforms, and doesn’t require a server or database.&lt;/p&gt;
+&lt;h3 id=&#34;-responsive-design&#34;&gt;✅ Responsive Design&lt;/h3&gt;
+&lt;p&gt;The site looks great on both desktop and mobile devices. Light and dark themes are supported, along with many layout customization options.&lt;/p&gt;
+&lt;h3 id=&#34;-open-source-and-active-community&#34;&gt;✅ Open Source and Active Community&lt;/h3&gt;
+&lt;p&gt;It’s an open-source project under active development with plenty of community support, templates, and documentation available.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-who-should-use-this&#34;&gt;🧑‍🔬 Who Should Use This?&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;&lt;strong&gt;Young researchers and graduate students&lt;/strong&gt; — to showcase their academic activity and gain visibility&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Educators&lt;/strong&gt; — to organize courses, lecture notes, and learning resources&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Grant applicants&lt;/strong&gt; — to illustrate their research trajectory and contributions&lt;/li&gt;
+&lt;li&gt;&lt;strong&gt;Science communicators&lt;/strong&gt; — to maintain a blog or public lecture archive&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-how-does-it-work&#34;&gt;🚀 How Does It Work?&lt;/h2&gt;
+&lt;p&gt;The site is built from plain text files (Markdown and YAML) organized in folders. You write your content, and the theme turns it into a stylish web page. No need to write HTML, CSS, or JavaScript manually.&lt;/p&gt;
+&lt;p&gt;Publishing is done via Git — you edit locally, push to GitHub, and your site updates automatically. Especially handy for those already using Git in their academic workflow.&lt;/p&gt;
+&lt;hr&gt;
+&lt;h2 id=&#34;-example-use-cases&#34;&gt;🌍 Example Use Cases&lt;/h2&gt;
+&lt;ul&gt;
+&lt;li&gt;Personal websites for university faculty&lt;/li&gt;
+&lt;li&gt;Online portfolios for early-career researchers&lt;/li&gt;
+&lt;li&gt;Showcase pages for research labs and teams&lt;/li&gt;
+&lt;li&gt;Course and MOOC landing pages&lt;/li&gt;
+&lt;li&gt;Blogs on topics like math, AI, biology, and more&lt;/li&gt;
+&lt;/ul&gt;
+&lt;hr&gt;
+&lt;blockquote&gt;
+&lt;p&gt;💡 &lt;em&gt;Your academic website is not just a page with a photo — it’s your digital identity in the scientific world. Hugo Academic gives you all the tools to present yourself clearly, professionally, and beautifully.&lt;/em&gt;&lt;/p&gt;&lt;/blockquote&gt;
+&lt;p&gt;If you’re planning to start a research career, build international collaborations, or apply for grants — creating a site like this is absolutely worth it.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/02/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-sql-and-the-first-experience-with-big-data&#34;&gt;🧩 SQL and the First Experience with Big Data&lt;/h2&gt;
+&lt;p&gt;This week was all about queries and tables. We began learning SQL — the language that allows you to speak with databases. It was both challenging and incredibly fascinating. At first, SELECT and WHERE seemed like just words, but after a few sessions, I was writing queries with JOINs, grouping, and date filtering.&lt;/p&gt;
+&lt;p&gt;One seminar stood out: we worked with a customer database from an online store. By filtering by registration date, region, and order amount, we identified the &amp;ldquo;top&amp;rdquo; users. The feeling of managing thousands of rows of data was thrilling!&lt;/p&gt;
+&lt;p&gt;✨ I also attended an intensive workshop on building Customer Journey Maps. We analyzed the client’s path from the first advertisement to the purchase and post-service stages. I realized how crucial touchpoints are and how much digital infrastructure affects them.&lt;/p&gt;
+&lt;p&gt;💡 &lt;em&gt;The word of the week is “structure”: data structure, process structure, and thought structure.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/01/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1--introduction-to-business-analytics-and-community&#34;&gt;🌱 Week 1 — Introduction to Business Analytics and Community&lt;/h2&gt;
+&lt;p&gt;The semester began with engaging lectures in the course &lt;em&gt;&amp;ldquo;Data Analysis in Business.&amp;rdquo;&lt;/em&gt; The instructor explained how numbers drive management decisions and showed real examples of company reports. For the first time, I truly understood the role of Excel and Power BI — behind every graph lies a whole story.&lt;/p&gt;
+&lt;p&gt;In practice sessions, we built pivot tables and visualizations. I especially enjoyed a case study on an online store: we worked with real data to investigate why revenue dropped in March. It was inspiring to realize that I’m already capable of making small but meaningful analytical discoveries.&lt;/p&gt;
+&lt;p&gt;🔥 Another highlight of the week was an evening session with a representative from VK. He talked about how the company digitized its internal business processes, automated customer support, and developed internal IT tools. I loved how he spoke about digital maturity — I want to reach that level one day!&lt;/p&gt;
+&lt;p&gt;📸 &lt;em&gt;I took a few notes and sketched some diagrams — slowly starting to build my personal “analyst’s hackbook.”&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo Blox | My Site</title>
+    <link>https://vdskripnik.github.io/en/tags/hugo-blox/</link>
+      <atom:link href="https://vdskripnik.github.io/en/tags/hugo-blox/index.xml" rel="self" type="application/rss+xml" />
+    <description>Hugo Blox</description>
+    <generator>Hugo Blox Builder (https://hugoblox.com)</generator><language>en-us</language><lastBuildDate>Fri, 30 May 2025 00:00:00 +0000</lastBuildDate>
+    <image>
+      <url>https://vdskripnik.github.io/media/icon_hu_645fa481986063ef.png</url>
+      <title>Hugo Blox</title>
+      <link>https://vdskripnik.github.io/en/tags/hugo-blox/</link>
+    </image>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/03/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/03/</guid>
+      <description>&lt;h2 id=&#34;-visualizing-business-processes-and-teamwork&#34;&gt;🛠 Visualizing Business Processes and Teamwork&lt;/h2&gt;
+&lt;p&gt;This week we dove into the world of business processes and diagrams. At first, it felt unfamiliar — blocks, arrows, subprocesses&amp;hellip; But gradually, I realized what a powerful tool it is. We learned how to create BPMN diagrams and describe real business scenarios.&lt;/p&gt;
+&lt;p&gt;Our team was given a logistics case for an online store. We modeled the delivery process from order placement to package receipt. We analyzed bottlenecks — including delays during order picking. After introducing automation in two points and recalculating the timing, the process became one and a half times faster! Micro-optimization — but what a satisfying result.&lt;/p&gt;
+&lt;p&gt;👥 It was our first experience working in a small group — discussing solutions, drawing the diagram together, debating who’s responsible for what. A great introduction to collaborative work.&lt;/p&gt;
+&lt;p&gt;🎯 &lt;em&gt;The most valuable insight: I’ve learned how to “see” a process, even when it’s not visible on a screen.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/04/</link>
+      <pubDate>Fri, 30 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/04/</guid>
+      <description>&lt;h2 id=&#34;-visualizing-business-processes-and-teamwork&#34;&gt;🛠 Visualizing Business Processes and Teamwork&lt;/h2&gt;
+&lt;p&gt;This week we dove into the world of business processes and diagrams. At first, it felt unfamiliar — blocks, arrows, subprocesses&amp;hellip; But gradually, I realized what a powerful tool it is. We learned how to create BPMN diagrams and describe real business scenarios.&lt;/p&gt;
+&lt;p&gt;Our team was given a logistics case for an online store. We modeled the delivery process from order placement to package receipt. We analyzed bottlenecks — including delays during order picking. After introducing automation in two points and recalculating the timing, the process became one and a half times faster! Micro-optimization — but what a satisfying result.&lt;/p&gt;
+&lt;p&gt;👥 It was our first experience working in a small group — discussing solutions, drawing the diagram together, debating who’s responsible for what. A great introduction to collaborative work.&lt;/p&gt;
+&lt;p&gt;🎯 &lt;em&gt;The most valuable insight: I’ve learned how to “see” a process, even when it’s not visible on a screen.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/02/</link>
+      <pubDate>Fri, 23 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/02/</guid>
+      <description>&lt;h2 id=&#34;-sql-and-the-first-experience-with-big-data&#34;&gt;🧩 SQL and the First Experience with Big Data&lt;/h2&gt;
+&lt;p&gt;This week was all about queries and tables. We began learning SQL — the language that allows you to speak with databases. It was both challenging and incredibly fascinating. At first, SELECT and WHERE seemed like just words, but after a few sessions, I was writing queries with JOINs, grouping, and date filtering.&lt;/p&gt;
+&lt;p&gt;One seminar stood out: we worked with a customer database from an online store. By filtering by registration date, region, and order amount, we identified the &amp;ldquo;top&amp;rdquo; users. The feeling of managing thousands of rows of data was thrilling!&lt;/p&gt;
+&lt;p&gt;✨ I also attended an intensive workshop on building Customer Journey Maps. We analyzed the client’s path from the first advertisement to the purchase and post-service stages. I realized how crucial touchpoints are and how much digital infrastructure affects them.&lt;/p&gt;
+&lt;p&gt;💡 &lt;em&gt;The word of the week is “structure”: data structure, process structure, and thought structure.&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>My Week</title>
+      <link>https://vdskripnik.github.io/en/post/01/</link>
+      <pubDate>Fri, 16 May 2025 00:00:00 +0000</pubDate>
+      <guid>https://vdskripnik.github.io/en/post/01/</guid>
+      <description>&lt;h2 id=&#34;-week-1--introduction-to-business-analytics-and-community&#34;&gt;🌱 Week 1 — Introduction to Business Analytics and Community&lt;/h2&gt;
+&lt;p&gt;The semester began with engaging lectures in the course &lt;em&gt;&amp;ldquo;Data Analysis in Business.&amp;rdquo;&lt;/em&gt; The instructor explained how numbers drive management decisions and showed real examples of company reports. For the first time, I truly understood the role of Excel and Power BI — behind every graph lies a whole story.&lt;/p&gt;
+&lt;p&gt;In practice sessions, we built pivot tables and visualizations. I especially enjoyed a case study on an online store: we worked with real data to investigate why revenue dropped in March. It was inspiring to realize that I’m already capable of making small but meaningful analytical discoveries.&lt;/p&gt;
+&lt;p&gt;🔥 Another highlight of the week was an evening session with a representative from VK. He talked about how the company digitized its internal business processes, automated customer support, and developed internal IT tools. I loved how he spoke about digital maturity — I want to reach that level one day!&lt;/p&gt;
+&lt;p&gt;📸 &lt;em&gt;I took a few notes and sketched some diagrams — slowly starting to build my personal “analyst’s hackbook.”&lt;/em&gt;&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
